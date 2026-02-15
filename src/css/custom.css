@@ -28,3 +28,33 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+:root {
+  --ifm-font-family-base:
+    "PingFang SC",
+    "Hiragino Sans GB",
+    "Microsoft YaHei",
+    "Noto Sans CJK SC",
+    system-ui,
+    sans-serif;
+
+  --ifm-heading-font-family:
+    "PingFang SC",
+    "Hiragino Sans GB",
+    system-ui,
+    sans-serif;
+
+  --ifm-font-family-monospace:
+    "JetBrains Mono",
+    monospace;
+}
+
+.footer__copyright {
+  font-size: 0.75rem;
+  opacity: 0.8;
+}
+.hero__subtitle {
+  font-size: 0.85rem;
+  opacity: 0.8;
+  margin-top: 0.5rem;
+}

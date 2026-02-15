@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 机器人开发简介
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **BAATER's Blog in less than 5 minutes**.
 
 ## Getting Started
 

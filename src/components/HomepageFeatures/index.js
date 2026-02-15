@@ -2,34 +2,38 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
+
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '机器人视觉',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <strong>Robot Vision</strong><br />
+        <span style={{ display: 'block', height: '0.3em' }} />
+        图像理解与环境感知，聚焦视觉算法在机器人系统中的落地与应用。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '机器人导航',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <strong>Robot Navigation</strong><br />
+        <span style={{ display: 'block', height: '0.3em' }} />
+        覆盖定位、建图与路径规划，构建稳定可靠的自主移动能力。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '嵌入式开发',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <strong>Embedded Development</strong><br />
+        <span style={{ display: 'block', height: '0.3em' }} />
+        关注软硬件协同，从底层系统到设备级工程实践。
       </>
     ),
   },
