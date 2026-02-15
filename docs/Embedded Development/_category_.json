@@ -1,8 +1,8 @@
 {
   "label": "嵌入式开发",
-  "position": 4,
+  "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "本篇主要分享机器人开发中的下位机（驱动开发板）的设计方案和细节。"
   }
 }

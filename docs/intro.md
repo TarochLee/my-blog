@@ -4,44 +4,23 @@ sidebar_position: 1
 
 # 机器人开发简介
 
-Let's discover **BAATER's Blog in less than 5 minutes**.
+欢迎来到 **BAATER 的机器人开发专栏**！在这里，我将分享从基础到进阶的机器人（无人车、无人机、人形机器人等）开发知识，涵盖软件、硬件、算法以及实战项目。
 
-## Getting Started
+## 专栏内容
 
-Get started by **creating a new site**.
+本专栏将涵盖但不限于以下主题：
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **机器人操作系统（ROS 2）**：核心概念、通信机制、常用工具与调试技巧。
+- **运动控制与规划**：底盘控制、路径规划、避障算法（如 DWA、TEB）。
+- **计算机视觉**：图像处理、目标检测、视觉 SLAM 的基础与实战。
+- **传感器集成**：激光雷达、深度相机、IMU 的数据读取与融合。
+- **仿真与实物**：Gazebo 仿真环境搭建，以及真实机器人的部署案例。
+- **项目实战**：从零开始搭建移动机器人、机械臂控制等完整项目。
 
-### What you'll need
+## 前置知识建议
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- 熟悉 Python 或 C++ 基础语法。
+- 了解 Linux 基本命令行操作（Ubuntu 环境）。
+- 对线性代数、基础物理有初步认识会更有帮助。
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+准备好开启机器人开发之旅了吗？点击下方文章开始探索吧！

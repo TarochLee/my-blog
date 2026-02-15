@@ -1,0 +1,8 @@
+{
+  "label": "机器人环境配置",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "本篇主要分享一些机器人开发中的常用的环境配置方案和细节。"
+  }
+}
