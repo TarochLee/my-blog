@@ -101,6 +101,7 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {to: '/about', label: '个人简介', position: 'left'},
         ],
       },
       footer: {
